@@ -11,6 +11,11 @@ It continuously scrapes filtered data (like Signal Type = IV, Opt Type = ALL, Bu
 
 The system eliminates manual copy-paste work and provides actionable insights every 30 minutes directly to your Telegram bot.
 
+git add README.md
+git commit -m "Extended project description added"
+git push
+
+
 ---
 
 ## ⚙️ Features
